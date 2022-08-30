@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm interested in learning about rocket propulsion
+- I'm working on getting a degree in Aerospace Engineering
+- My favorite hobbies are skateboarding, videogames and board games, travelling, and anything involving water.
+
 <!--
 **jafitz1/jafitz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
